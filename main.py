@@ -7,7 +7,7 @@ from datetime import datetime
 import random
 
 
-token = "be40be0d5cc6cb3b6d69237cf06ba9925cf2b83a972075eb7e96e512b15c7181e93d3ff48e9cbbc291786"
+
 vk_session = vk_api.VkApi(token=token)
 
 
