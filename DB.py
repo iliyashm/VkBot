@@ -2,10 +2,10 @@ import mysql.connector
 
 def get_connection():
     connection = mysql.connector.connect(
-        host="127.7.7.1",
-        user="root",
-        password="12345",
-        database="my_db"
+        host="",
+        user="",
+        password="",
+        database=""
     )
     return connection
 
